@@ -49,6 +49,7 @@
 - [YuHangSE](https://github.com/YuHangSE)
 - [Thejas Bhat](https://github.com/tbpcoder)
 - [Mahendra Kolhe](https://github.com/Mahikolhe23)
+- [dozenit](https://github.com/dozenit)
 - [Best wishes](https://github.com/SinusoidFunc)
 - [Temiwaji](https://github.com/Temiwaji)
 - [Venkatesh-KCET](https://github.com/Venkatesh-KCET)
